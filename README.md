@@ -1,1 +1,1 @@
-# 02 Estructura de archivos Angular
+# Estructura de archivos Angular
